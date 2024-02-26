@@ -31,7 +31,13 @@ cluster2
 
 Original Data (Cluster Graph 1): Overlapping clusters with no clear separation or distinctiveness, indicating a potential failure to capture underlying patterns.
 
+<img width="751" alt="Screenshot 2024-02-27 at 7 24 31 AM" src="https://github.com/stelladrose49/CryptoClustering/assets/141170388/bdd57639-ae99-4a49-a370-99f881797290">
+
+
 PCA Data (Cluster Graph 2): Non-overlapping clusters with clear separation, showcasing four distinct clusters. Using fewer features through PCA potentially reduces noise and reveals more distinct patterns, resulting in meaningful and separable clusters.
+
+<img width="850" alt="Screenshot 2024-02-27 at 7 25 00 AM" src="https://github.com/stelladrose49/CryptoClustering/assets/141170388/6a7bdf0f-7224-408f-9a67-a2eda68302be">
+
 
 **Conclusion
 The utilization of fewer features (PCA data) for K-Means clustering of cryptocurrency data has positively impacted the results. It has led to well-defined and separable clusters compared to using the original data. The reduction in features through PCA likely emphasizes essential patterns, reduces noise, and enhances the accuracy of clustering results.
